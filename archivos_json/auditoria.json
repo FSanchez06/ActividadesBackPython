@@ -1,0 +1,25 @@
+[
+    {
+      "ip": "192.228.17.57",
+      "fecha": "2023-01-01",
+      "hora": "17:50:12",
+      "operacion": "lectura",
+      "autenticado": true
+    },
+    {
+      "ip": "192.228.17.82",
+      "fecha": "2023-01-01",
+      "hora": "17:51:01",
+      "operacion": "escritura",
+      "autenticado": false
+    },
+    {
+      "ip": "192.228.17.93",
+      "fecha": "2023-01-01",
+      "hora": "17:52:23",
+      "operacion": "escritura",
+      "autenticado": true
+    }
+  ]
+
+  
